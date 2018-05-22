@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 肖艳阳(Yanyang Xiao)</title>
+    <link>https://yanyangxiao.github.io/project/</link>
+    <description>Recent content in Projects on 肖艳阳(Yanyang Xiao)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 23 May 2018 03:07:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://yanyangxiao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal_power_diagrams_project</title>
+      <link>https://yanyangxiao.github.io/project/optimal_power_diagrams_project/</link>
+      <pubDate>Wed, 23 May 2018 03:07:13 +0800</pubDate>
+      
+      <guid>https://yanyangxiao.github.io/project/optimal_power_diagrams_project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
